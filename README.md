@@ -10,6 +10,6 @@ uses :
 3) email id 
 4) MD5 srtings 
 5) base64 strings 
-6) some hidden api
+6) some hidden api or tokens 
 
 i will add more regex patterns in future.
